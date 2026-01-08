@@ -9,7 +9,7 @@ function initializeAudio() {
     if (audioInitialized) return; // Don't set up twice
     
     // Load our wildwest music
-    backgroundMusic = new Audio('WildWest.mp3');
+    backgroundMusic = new Audio('wildwest_2AFPAmGm.mp3');
     backgroundMusic.loop = true;
     backgroundMusic.volume = 0.5;
     
